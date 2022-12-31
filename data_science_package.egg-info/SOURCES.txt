@@ -4,5 +4,5 @@ data_science_package.egg-info/SOURCES.txt
 data_science_package.egg-info/dependency_links.txt
 data_science_package.egg-info/top_level.txt
 data_science_package/notebooks/__init__.py
-data_science_package/utis/__init__.py
-data_science_package/utis/funcs.py
+data_science_package/utils/__init__.py
+data_science_package/utils/funcs.py
